@@ -30,7 +30,7 @@
                             },
                             {
                                 "title": "CAPTCHA",
-                                "description": "If the purpose of non-text content is to confirm that content is being accessed by a person rather than a computer, then text alternatives that identify and describe the purpose of the non-text content are provided, and alternative forms of CAPTCHA using output modes for different types of sensory perception\n                      are provided to accommodate different disabilities."
+                                "description": "If the purpose of non-text content is to confirm that content is being accessed by a person rather than a computer, then text alternatives that identify and describe the purpose of the non-text content are provided, and alternative forms of CAPTCHA using output modes for different types of sensory perception are provided to accommodate different disabilities."
                             },
                             {
                                 "title": "Decoration, Formatting, Invisible",
@@ -313,7 +313,7 @@
                 "requirements": [
                     {
                         "title": "Info and Relationships",
-                        "description": "Information, structure, \n                 and relationships conveyed through presentation can be programmatically determined or are available in text.",
+                        "description": "Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.",
                         "level": "A",
                         "specific_cases": [],
                         "situations": [
@@ -389,7 +389,7 @@
                     },
                     {
                         "title": "Sensory Characteristics",
-                        "description": "Instructions provided for understanding\nand operating content do not rely solely on sensory characteristics of components such as shape, size, visual location, orientation, or sound.",
+                        "description": "Instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape, size, visual location, orientation, or sound.",
                         "level": "A",
                         "specific_cases": [],
                         "situations": [],
@@ -582,7 +582,7 @@
                             },
                             {
                                 "title": "20 dB",
-                                "description": "The background sounds are at least 20 decibels lower than the\n            \t\t\tforeground speech content, with the exception of occasional sounds that last for only one or two seconds.Note"
+                                "description": "The background sounds are at least 20 decibels lower than the foreground speech content, with the exception of occasional sounds that last for only one or two seconds.Note"
                             }
                         ],
                         "situations": [],
@@ -722,12 +722,12 @@
                 "requirements": [
                     {
                         "title": "Timing Adjustable",
-                        "description": "For each time limit that is \n                set by the content, at least one of the following is true:",
+                        "description": "For each time limit that is set by the content, at least one of the following is true:",
                         "level": "A",
                         "specific_cases": [
                             {
                                 "title": "Turn off",
-                                "description": "The user is allowed to turn off the time limit\n                    before encountering it; or"
+                                "description": "The user is allowed to turn off the time limit before encountering it; or"
                             },
                             {
                                 "title": "Adjust",
@@ -815,7 +815,7 @@
                     },
                     {
                         "title": "No Timing",
-                        "description": "Timing is not an essential part of the event or activity presented by the content, except for non-interactive synchronized media and\n                real-time events.",
+                        "description": "Timing is not an essential part of the event or activity presented by the content, except for non-interactive synchronized media and real-time events.",
                         "level": "AAA",
                         "specific_cases": [],
                         "situations": [],
@@ -960,7 +960,7 @@
                     },
                     {
                         "title": "Multiple Ways",
-                        "description": "More than one way is available to locate a Web page\n                \n                 within a set of Web pages\n                except where the Web Page is the result of, or a step in, a process.",
+                        "description": "More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process.",
                         "level": "AA",
                         "specific_cases": [],
                         "situations": [],
@@ -1062,7 +1062,7 @@
                 "requirements": [
                     {
                         "title": "Language of Page",
-                        "description": "The default\n                human language\n                 of each\n                Web page\n                can be programmatically determined.",
+                        "description": "The default human language of each Web page can be programmatically determined.",
                         "level": "A",
                         "specific_cases": [],
                         "situations": [],
@@ -1075,7 +1075,7 @@
                     },
                     {
                         "title": "Language of Parts",
-                        "description": "The human language of each passage or phrase in the \n                content can be programmatically determined\n                 except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.",
+                        "description": "The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.",
                         "level": "AA",
                         "specific_cases": [],
                         "situations": [],
@@ -1160,7 +1160,7 @@
                     },
                     {
                         "title": "Reading Level",
-                        "description": "When text requires reading ability more advanced than the lower secondary education level after removal of proper names and titles,  supplemental content,\n                or a version\n                 that does not require reading ability more advanced than the lower secondary education level, is available.",
+                        "description": "When text requires reading ability more advanced than the lower secondary education level after removal of proper names and titles, supplemental content, or a version that does not require reading ability more advanced than the lower secondary education level, is available.",
                         "level": "AAA",
                         "specific_cases": [],
                         "situations": [],
@@ -1194,7 +1194,7 @@
                 "requirements": [
                     {
                         "title": "On Focus",
-                        "description": "When any component receives focus, it does not \n                initiate a change of context.",
+                        "description": "When any component receives focus, it does not initiate a change of context.",
                         "level": "A",
                         "specific_cases": [],
                         "situations": [],
@@ -1204,7 +1204,7 @@
                     },
                     {
                         "title": "On Input",
-                        "description": "Changing the setting of any \n                  user interface component\n                 does not automatically cause a change of context\n                 unless the user has been advised of the behavior before using the component.",
+                        "description": "Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.",
                         "level": "A",
                         "specific_cases": [],
                         "situations": [],
@@ -1221,7 +1221,7 @@
                     },
                     {
                         "title": "Consistent Navigation",
-                        "description": "Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages\n                 occur in the same relative order each time they are repeated, unless a change is initiated by the user.",
+                        "description": "Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.",
                         "level": "AA",
                         "specific_cases": [],
                         "situations": [],
@@ -1285,7 +1285,7 @@
                 "requirements": [
                     {
                         "title": "Error Identification",
-                        "description": "If an input error is automatically detected, the item that is in error is identified and the error is\n                 described to the user in text.",
+                        "description": "If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.",
                         "level": "A",
                         "specific_cases": [],
                         "situations": [
